@@ -1,0 +1,12 @@
+[
+  { "_id": "PAX001", "name": "John Doe", "email": "john@example.com", "phone": "+91-9876543210", "passport_number": "M1234567", "loyalty_points": 1200, "booking_history": ["BKG1001","BKG1005"] },
+  { "_id": "PAX002", "name": "Priya Sharma", "email": "priya@example.com", "phone": "+91-9123456780", "passport_number": "L9876543", "loyalty_points": 800, "booking_history": ["BKG1002"] },
+  { "_id": "PAX003", "name": "David Miller", "email": "david@example.com", "phone": "+1-202-555-0189", "passport_number": "H7654321", "loyalty_points": 300, "booking_history": ["BKG1003"] },
+  { "_id": "PAX004", "name": "Aarav Patel", "email": "aarav@example.com", "phone": "+91-9812345678", "passport_number": "K4567890", "loyalty_points": 1500, "booking_history": ["BKG1004","BKG1007"] },
+  { "_id": "PAX005", "name": "Emily Watson", "email": "emily@example.com", "phone": "+44-7712345678", "passport_number": "G2345678", "loyalty_points": 950, "booking_history": ["BKG1005"] },
+  { "_id": "PAX006", "name": "Ravi Kumar", "email": "ravi@example.com", "phone": "+91-9876501234", "passport_number": "M7654321", "loyalty_points": 200, "booking_history": ["BKG1006"] },
+  { "_id": "PAX007", "name": "Sophia Lee", "email": "sophia@example.com", "phone": "+61-412345678", "passport_number": "P1234567", "loyalty_points": 600, "booking_history": ["BKG1007"] },
+  { "_id": "PAX008", "name": "Mohammed Ali", "email": "ali@example.com", "phone": "+971-501234567", "passport_number": "Q9876543", "loyalty_points": 1100, "booking_history": ["BKG1008"] },
+  { "_id": "PAX009", "name": "Sarah Johnson", "email": "sarah@example.com", "phone": "+1-303-555-0123", "passport_number": "R1234987", "loyalty_points": 750, "booking_history": ["BKG1009"] },
+  { "_id": "PAX010", "name": "Karthik Iyer", "email": "karthik@example.com", "phone": "+91-9012345678", "passport_number": "T9871234", "loyalty_points": 500, "booking_history": ["BKG1010"] }
+]

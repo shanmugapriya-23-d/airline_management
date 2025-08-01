@@ -1,0 +1,12 @@
+[
+  { "_id": "CREW001", "name": "Captain Raj", "role": "Pilot", "assigned_flights": ["FL100","FL107"], "hours_flown": 320, "availability_status": "Available" },
+  { "_id": "CREW002", "name": "First Officer Meera", "role": "Co-Pilot", "assigned_flights": ["FL100","FL101"], "hours_flown": 280, "availability_status": "Available" },
+  { "_id": "CREW003", "name": "Suresh Kumar", "role": "Cabin Crew", "assigned_flights": ["FL100","FL102"], "hours_flown": 150, "availability_status": "Available" },
+  { "_id": "CREW004", "name": "Anjali Verma", "role": "Cabin Crew", "assigned_flights": ["FL101","FL103"], "hours_flown": 180, "availability_status": "On Leave" },
+  { "_id": "CREW005", "name": "Captain Arjun", "role": "Pilot", "assigned_flights": ["FL102","FL104"], "hours_flown": 400, "availability_status": "Available" },
+  { "_id": "CREW006", "name": "First Officer Riya", "role": "Co-Pilot", "assigned_flights": ["FL102","FL106"], "hours_flown": 210, "availability_status": "Available" },
+  { "_id": "CREW007", "name": "Vikram Singh", "role": "Cabin Crew", "assigned_flights": ["FL103","FL105"], "hours_flown": 90, "availability_status": "Available" },
+  { "_id": "CREW008", "name": "Sara Khan", "role": "Cabin Crew", "assigned_flights": ["FL104","FL108"], "hours_flown": 110, "availability_status": "Available" },
+  { "_id": "CREW009", "name": "Captain Neeraj", "role": "Pilot", "assigned_flights": ["FL105","FL109"], "hours_flown": 350, "availability_status": "Available" },
+  { "_id": "CREW010", "name": "First Officer Aman", "role": "Co-Pilot", "assigned_flights": ["FL106","FL109"], "hours_flown": 190, "availability_status": "On Leave" }
+]

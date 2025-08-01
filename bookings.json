@@ -1,0 +1,12 @@
+[
+  { "_id": "BKG1001", "flight_id": "FL100", "passenger_id": "PAX001", "booking_date": "2025-07-30T14:20:00", "seat_number": "12A", "price_paid": 4500, "payment_status": "Paid", "check_in_status": "Not Checked-In" },
+  { "_id": "BKG1002", "flight_id": "FL101", "passenger_id": "PAX002", "booking_date": "2025-07-30T15:00:00", "seat_number": "15B", "price_paid": 3800, "payment_status": "Paid", "check_in_status": "Checked-In" },
+  { "_id": "BKG1003", "flight_id": "FL102", "passenger_id": "PAX003", "booking_date": "2025-07-31T08:45:00", "seat_number": "08C", "price_paid": 4200, "payment_status": "Paid", "check_in_status": "Not Checked-In" },
+  { "_id": "BKG1004", "flight_id": "FL103", "passenger_id": "PAX004", "booking_date": "2025-07-31T10:15:00", "seat_number": "21D", "price_paid": 5000, "payment_status": "Paid", "check_in_status": "Checked-In" },
+  { "_id": "BKG1005", "flight_id": "FL100", "passenger_id": "PAX005", "booking_date": "2025-07-31T12:30:00", "seat_number": "18E", "price_paid": 4500, "payment_status": "Pending", "check_in_status": "Not Checked-In" },
+  { "_id": "BKG1006", "flight_id": "FL104", "passenger_id": "PAX006", "booking_date": "2025-07-31T16:45:00", "seat_number": "02A", "price_paid": 4700, "payment_status": "Paid", "check_in_status": "Not Checked-In" },
+  { "_id": "BKG1007", "flight_id": "FL106", "passenger_id": "PAX004", "booking_date": "2025-08-01T09:00:00", "seat_number": "09B", "price_paid": 4100, "payment_status": "Paid", "check_in_status": "Checked-In" },
+  { "_id": "BKG1008", "flight_id": "FL107", "passenger_id": "PAX008", "booking_date": "2025-08-01T10:30:00", "seat_number": "14C", "price_paid": 4000, "payment_status": "Paid", "check_in_status": "Not Checked-In" },
+  { "_id": "BKG1009", "flight_id": "FL108", "passenger_id": "PAX009", "booking_date": "2025-08-01T11:00:00", "seat_number": "19A", "price_paid": 4800, "payment_status": "Paid", "check_in_status": "Not Checked-In" },
+  { "_id": "BKG1010", "flight_id": "FL109", "passenger_id": "PAX010", "booking_date": "2025-08-01T12:45:00", "seat_number": "10F", "price_paid": 4500, "payment_status": "Paid", "check_in_status": "Checked-In" }
+]
